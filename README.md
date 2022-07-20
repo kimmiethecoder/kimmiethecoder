@@ -24,9 +24,9 @@
 <p align="center">
   I'm a Software Engineer with a background in Training, and Human Resource Management. <br>I build sites that look great and actually work. It's my goal to help small businesses and entrepreneurs<br> by giving them a responsive and accessible web presence.</p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kimmiethecoder&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</div>
+</div> -->
 
 
 <h1 align="center">Projects</h1>
