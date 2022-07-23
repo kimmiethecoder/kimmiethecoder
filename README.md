@@ -24,12 +24,13 @@
 <p align="center">
   I'm a Software Engineer with a background in Training, and Human Resource Management. <br>I build sites that look great and actually work. It's my goal to help small businesses and entrepreneurs<br> by giving them a responsive and accessible web presence.</p>
 
-<!-- <div align="center">
+<h1 align="left">Streak Stats 🔥</h1>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kimmiethecoder&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-</div> -->
+</div>
 
 
-<h1 align="center">Projects</h1>
+<h1 align="left">Projects</h1>
 <table bordercolor="#32CD32">
   
   <tr>
@@ -42,14 +43,14 @@
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/kimmiethecoder/cwSalon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://cwsalon.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center">Upscale Hair Salon</p>
+        <p align="center">On trend beauty salon</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">The Artist API</h3>
@@ -60,7 +61,7 @@
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/kimmiethecoder/audioDbArtistAPI" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://artistapi.netlify.app/" target="_blank">
@@ -80,9 +81,6 @@
         </a>
       <br />
         <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
   <a href="https://shining-stars-nasa-api-app.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
@@ -98,7 +96,7 @@
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/kimmiethecoder/myKdramaApi" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://kdrama-app.netlify.app/" target="_blank">
@@ -111,7 +109,7 @@
 </table>
 
 
-<h1 align="center">Technologies</h1>
+<h1 align="left">Technologies</h1>
 
 
 <p align="center">
@@ -130,7 +128,7 @@
      
 
 
-<h1 align="center">Let's Connect</h1>
+<h1 align="center">Let's Connect!</h1>
 
 
 
