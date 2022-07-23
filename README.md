@@ -93,7 +93,7 @@
       <h3 align="center">KDrama Api</h3>
         <br />
         <a target="_blank" href="https://kdrama-app.netlify.app/">
-          <img src="#" width="100%" alt="kdrama api"/>
+          <img src="assets/kdramaApp.png" width="100%" alt="kdrama api"/>
         </a>
         <br />
         <p align="center">
