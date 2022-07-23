@@ -4,10 +4,10 @@
   <a href="https://www.kimmiethecoder.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/kim-rodriguez-swe" target="_blank">
+  <a href="https://www.linkedin.com/in/kim-t-rodriguez" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/kimmiethecoder" target="_blank">
+  <a href="https://twitter.com/WafflesMomCodes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/kimberly-rodriguez-8" target="_blank">
@@ -34,10 +34,10 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">3elevenAesthetics</h3>
+      <h3 align="center">CW Salon</h3>
         <br />
-        <a target="_blank" href="https://3eleven-aesthetics.netlify.app/">
-            <img src="assets/3eleven.gif" width="100%" alt="3eleven salon"/>
+        <a target="_blank" href="https://cwsalon.netlify.app/">
+            <img src="assets/3eleven.gif" width="100%" alt="cw salon"/>
         </a>
         <br />
         <p align="center">
@@ -45,7 +45,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://3eleven-aesthetics.netlify.app/" target="_blank">
+  <a href="https://cwsalon.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -54,7 +54,7 @@
     <td width="50%" valign="top">
       <h3 align="center">The Artist API</h3>
         <br />
-      <a target="https://audio-db-api.netlify.app/">
+      <a target="https://artistapi.netlify.app/">
             <img src="assets/artistApi.gif" width="100%" alt="artist api"/>
         </a>
         <br />
@@ -63,7 +63,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://audio-db-api.netlify.app/" target="_blank">
+  <a href="https://artistapi.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -90,10 +90,10 @@
         <p align="center">A Picture of the Day web application with NASA API integration. Users can select date and retrieve information from NASA's API with images, video and explanation.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Baked Goods To Go</h3>
+      <h3 align="center">KDrama Api</h3>
         <br />
-        <a target="_blank" href="https://bakedgoodstogo.netlify.app/">
-          <img src="assets/bakedGoods.gif" width="100%" alt="baked goods"/>
+        <a target="_blank" href="https://kdrama-app.netlify.app/">
+          <img src="#" width="100%" alt="kdrama api"/>
         </a>
         <br />
         <p align="center">
@@ -101,11 +101,11 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://bakedgoodstogo.netlify.app/" target="_blank">
+  <a href="https://kdrama-app.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center">An elegant, user-friendly website for a local bakery that powers online ordering, search options, and blog subscription capability.</p>
+        <p align="center">Website for fans of Korean drama. Users input title of their desired series and return information pulled from an original API created in MongoDB.</p>
     </td>
   </tr>
 </table>
@@ -138,10 +138,10 @@
   <a href="https://www.kimmiethecoder.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/kim-rodriguez-swe" target="_blank">
+  <a href="https://www.linkedin.com/in/kim-t-rodriguez" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/kimmiethecoder" target="_blank">
+  <a href="https://twitter.com/WafflesMomCodes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/kimberly-rodriguez-8" target="_blank">
