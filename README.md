@@ -38,7 +38,7 @@
       <h3 align="center">CW Salon</h3>
         <br />
         <a target="_blank" href="https://cwsalon.netlify.app/">
-            <img src="assets/3eleven.gif" width="100%" alt="cw salon"/>
+            <img src="assets/cwSalon.gif" width="100%" alt="cw salon"/>
         </a>
         <br />
         <p align="center">
