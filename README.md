@@ -37,7 +37,7 @@
     <td width="50%" valign="top">
       <h3 align="center">CW Salon</h3>
         <br />
-        <a target="_blank" href="https://cwsalon.netlify.app/">
+        <a target="_blank" href="https://3eleven-aesthetics.netlify.app">
             <img src="assets/cwSalon.gif" width="100%" alt="cw salon"/>
         </a>
         <br />
@@ -46,46 +46,11 @@
   <a href="https://github.com/kimmiethecoder/cwSalon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://cwsalon.netlify.app/" target="_blank">
+  <a href="https://3eleven-aesthetics.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center">On trend beauty salon</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">The Artist API</h3>
-        <br />
-      <a target="https://artistapi.netlify.app/">
-            <img src="assets/artistApi.gif" width="100%" alt="artist api"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/kimmiethecoder/audioDbArtistAPI" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://artistapi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center">API Project: Pulls artist info from api. Info checked against criteria for future availability.</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Shining Stars POTD</h3>
-      <br />
-        <a target="_blank" href="https://shining-stars-nasa-api-app.netlify.app/">
-          <img src="assets/shiningStarsPic.jpg" width="100%" alt="nasa api"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://shining-stars-nasa-api-app.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center">A Picture of the Day web application with NASA API integration. Users can select date and retrieve information from NASA's API with images, video and explanation.</p>
+        <p align="center">Website for an upscale, on-trend salon with experts in hair styling (all textures/treatments), waxing, makeup application and microblading. Access seperate pages via buttons and menu for salon lookbook, team bios, and booking information.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">KDrama Api</h3>
