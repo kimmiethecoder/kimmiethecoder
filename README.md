@@ -22,55 +22,12 @@
 <h3 align="center"></h3>
 
 <p align="center">
-  I'm a Software Engineer with a background in Training, and Human Resource Management. <br>I build sites that look great and actually work. It's my goal to help small businesses and entrepreneurs<br> by giving them a responsive and accessible web presence.</p>
+  I'm a Software Engineer with a background in Human Resource Development. <br>I build sites that look great and actually work. It's my goal to help small businesses and entrepreneurs<br> by giving them a responsive and accessible web presence.</p>
 
 <h1 align="left">Streak Stats 🔥</h1>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kimmiethecoder&theme=chartreuse-dark&hide_border=all&date_format=M%20j%5B%2C%20Y%5D">
 </div>
-
-<h1 align="left">Projects</h1>
-<table bordercolor="#32CD32">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">CW Salon</h3>
-        <br />
-        <a target="_blank" href="https://3eleven-aesthetics.netlify.app">
-            <img src="assets/cwSalon.gif" width="100%" alt="cw salon"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/kimmiethecoder/cwSalon" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://3eleven-aesthetics.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center">Website for an upscale, on-trend salon with experts in hair styling (all textures/treatments), waxing, makeup application and microblading. Access seperate pages via buttons and menu for salon lookbook, team bios, and booking information.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">KDrama Api</h3>
-        <br />
-        <a target="_blank" href="https://kdrama-app.netlify.app/">
-          <img src="assets/kdramaApp.png" width="100%" alt="kdrama api"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/kimmiethecoder/myKdramaApi" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://kdrama-app.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center">Website for fans of Korean drama. Users input title of their desired series and return information pulled from an original API created in MongoDB.</p>
-    </td>
-  </tr>
-</table>
 
 
 <h1 align="left">Technologies</h1>
