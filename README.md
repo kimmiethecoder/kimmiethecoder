@@ -22,7 +22,7 @@
 <h3 align="center"></h3>
 
 <p align="center">
-  I'm a Software Engineer with a background in Human Resource Development. <br>I build sites that look great and actually work. It's my goal to help small businesses and entrepreneurs<br> by giving them a responsive and accessible web presence.</p>
+  I'm a Software Engineer with a background in Human Resource Development. <br>I build sites that look great and actually work. It's my goal to help small businesses and entrepreneurs by giving them a responsive and accessible web presence.</p>
 
 <h1 align="left">Streak Stats 🔥</h1>
 <div align="center">
