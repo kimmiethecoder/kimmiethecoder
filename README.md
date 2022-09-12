@@ -13,9 +13,6 @@
   <a href="https://angel.co/u/kimberly-rodriguez-8" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
 </p>
 
  <h1 align="center">Hi there😃, I'm Kim!</h1>
@@ -36,12 +33,8 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
   <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
   <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
   <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
-  <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
   <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
   <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
   <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
@@ -65,8 +58,5 @@
   </a>
   <a href="https://angel.co/u/kimberly-rodriguez-8" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
