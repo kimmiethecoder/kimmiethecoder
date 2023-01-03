@@ -21,12 +21,6 @@
 <p align="center">
   I'm a Software Engineer with a background in Human Resource Development. <br>I build sites that look great and actually work. It's my goal to help small businesses and entrepreneurs by giving them a responsive and accessible web presence.</p>
 
-<h1 align="left">Streak Stats 🔥</h1>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kimmiethecoder&theme=chartreuse-dark&hide_border=date_format=M%20j%5B%2C%20Y%5D">
-</div>
-
-
 <h1 align="left">Technologies</h1>
 
 
